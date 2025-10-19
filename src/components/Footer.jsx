@@ -5,7 +5,7 @@ const Footer = () => {
       className="mt-32 py-4 flex jmd:flex-row flex-col gap-6 md:gap-0 justify-between items-center"
     >
       <div className="flex items-center gap-3">
-        <a href="https://www.wa.me/+6281808344450">
+        <a href="https://wa.me/+6281808344450">
           <i className="ri-whatsapp-fill ri-2x"></i>
         </a>
         <a href="https://www.instagram.com/aryapramesta_">
